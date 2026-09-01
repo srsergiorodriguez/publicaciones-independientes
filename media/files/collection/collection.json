@@ -1,0 +1,55 @@
+{
+  "protocol": {
+    "pid": {
+      "type": "pid",
+      "description": "Identificador único"
+    },
+    "label": {
+      "type": "label",
+      "description": "Nombre visible"
+    },
+    "Fecha": {
+      "type": "date",
+      "description": "Año de publicación"
+    },
+    "Ciudad": {
+      "type": "text",
+      "description": "Nombre de la ciudad de publicación. Incluir tildes y mayúscula en la primera."
+    }
+  },
+  "items": [
+    {
+      "pid": "OBJ-001",
+      "label": "Elefantes y Jirafas",
+      "Fecha": 2023,
+      "Ciudad": "Bogotá",
+      "images": [
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-001.webp"
+      ],
+      "thumb": "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-001_thumb.webp"
+    },
+    {
+      "pid": "OBJ-002",
+      "label": "Milagros",
+      "Fecha": 2012,
+      "Ciudad": "Bogotá",
+      "images": [
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-002.webp"
+      ],
+      "thumb": "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-002_thumb.webp"
+    },
+    {
+      "pid": "OBJ-003",
+      "label": "Ayayay",
+      "Fecha": 2022,
+      "Ciudad": "Bogotá",
+      "images": [
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-003/ayayaysergio_lp4u3sgcl2.webp",
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-003/ayayaysergio_lp4u3sgcl2_thumb.webp",
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-003/theinvisible_lp4u32w3t0.webp",
+        "https://srsergiorodriguez.github.io/publicaciones-independientes/media/files/collection/images/OBJ-003/theinvisible_lp4u32w3t0_thumb.webp"
+      ],
+      "thumb": null
+    }
+  ]
+}

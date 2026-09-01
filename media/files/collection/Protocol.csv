@@ -1,0 +1,5 @@
+﻿Attribute,Type,Description
+pid,pid,Identificador único
+label,label,Nombre visible
+Fecha,date,Año de publicación
+Ciudad,text,Nombre de la ciudad de publicación. Incluir tildes y mayúscula en la primera.

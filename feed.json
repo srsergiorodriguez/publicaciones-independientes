@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mis publicaciones",
+    "description": "",
+    "home_page_url": "https://srsergiorodriguez.github.io/publicaciones-independientes",
+    "feed_url": "https://srsergiorodriguez.github.io/publicaciones-independientes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio Rodríguez Gómez"
+    },
+    "items": [
+    ]
+}
